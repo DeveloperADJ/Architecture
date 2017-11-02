@@ -30,11 +30,6 @@ body {
 	color: black;
 }
 
-@font-face {
-    font-family: 'Din'; /*a name to be used later*/
-    src: url(Media/Fonts/Din/DinNGLPN.ttf); /*URL to font*/
-}
-
 #mid{
 	border-left: solid 1px black;
 	border-right: solid 1px black;
