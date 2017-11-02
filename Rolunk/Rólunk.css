@@ -1,0 +1,29 @@
+h1 {
+	text-transform: uppercase;
+	font-family: Helvetica;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding-top: 10%;
+	font-weight: 700;
+}
+
+p {
+	font-family: Helvetica;
+	letter-spacing: 0.1em;
+	text-align: center;
+	padding-top: 5%;
+	font-weight: 700;
+}
+
+.images {
+	display: flex;
+	justify-content: center;
+	align-content: center;
+}
+
+img {
+
+	height: 400px;
+	width: 400px;
+	padding: 40px;
+}

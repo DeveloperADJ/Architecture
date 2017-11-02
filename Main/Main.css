@@ -1,0 +1,48 @@
+div a:hover{
+	color: #de4e2f;
+	text-decoration: none;
+}
+
+div a {
+	font-size: 1.2em;
+	text-transform: uppercase;
+	color: #2f2e2e;
+	font-family: Helvetica;
+	letter-spacing: 0.1em;
+	font-weight: 700;
+}
+
+html {
+	height: 100%;
+}
+
+body {
+	background-image: url(Media/Photos/ACCamera_6_11.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.topBar {
+	position: center;
+	text-align: center;
+	padding-top: 15%;
+	font-family: Helvetica;
+	color: black;
+}
+
+@font-face {
+    font-family: 'Din'; /*a name to be used later*/
+    src: url(Media/Fonts/Din/DinNGLPN.ttf); /*URL to font*/
+}
+
+#mid{
+	border-left: solid 1px black;
+	border-right: solid 1px black;
+
+}
+
+.vr{
+	border-left: 1px solid #2f2e2e;
+}
+
+
